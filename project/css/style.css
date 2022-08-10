@@ -1,0 +1,22 @@
+/*========header section css ================*/
+header {
+
+}
+
+header {
+    height: 300px;
+    background-color: red;
+}
+
+@media (max-width:768px) {
+    header {
+        height: 200px;
+        background: aqua;
+    }
+}
+
+
+/*========end header section css ================*/
+
+
+
